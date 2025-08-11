@@ -1,0 +1,51 @@
+﻿Symbol,Name,Sector,Industry,Total_ESG_Risk_score,Environment_Risk_Score,Governance_Risk_Score,Social_Risk_Score,ESG_Risk_Percentile,ESG_Risk_Level
+ADANIENT,Adani Enterprises Ltd.,Energy,Metals & Mining,,,,,,
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Industrials,Services,12.6,3.6,5.6,3.4,6th percentile,Low
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,Healthcare,,,,,,
+ASIANPAINT,Asian Paints Ltd.,Basic Materials,Consumer Durables,25.4,11.3,6.2,8,51st percentile,Medium
+AXISBANK,Axis Bank Ltd.,Financial Services,Financial Services,24.2,2.3,11.6,10.3,45th percentile,Medium
+BAJAJ-AUTO,Bajaj Auto Ltd.,Consumer Cyclical,Automobile and Auto Components,17,4.2,6.7,6.1,17th percentile,Low
+BAJFINANCE,Bajaj Finance Ltd.,Financial Services,Financial Services,,,,,,
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,Financial Services,26.5,1.9,13.3,11.4,55th percentile,Medium
+BPCL,Bharat Petroleum Corporation Ltd.,Energy,Oil Gas & Consumable Fuels,37.8,21.4,6.7,9.7,89th percentile,High
+BHARTIARTL,Bharti Airtel Ltd.,Communication Services,Telecommunication,19.5,3.2,8.4,7.9,26th percentile,Low
+BRITANNIA,Britannia Industries Ltd.,Consumer Defensive,Fast Moving Consumer Goods,,,,,,
+CIPLA,Cipla Ltd.,Healthcare,Healthcare,28.4,3.3,10.3,14.8,63rd percentile,Medium
+COALINDIA,Coal India Ltd.,Energy,Oil Gas & Consumable Fuels,45.5,26.7,6.3,12.4,96th percentile,Severe
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,Healthcare,,,,,,
+DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,Healthcare,26.6,2.8,9.1,14.6,55th percentile,Medium
+EICHERMOT,Eicher Motors Ltd.,Consumer Cyclical,Automobile and Auto Components,13.3,3.6,6.4,3.3,7th percentile,Low
+GRASIM,Grasim Industries Ltd.,Basic Materials,Construction Materials,43.1,19.1,12.8,11.2,95th percentile,Severe
+HCLTECH,HCL Technologies Ltd.,Technology,Information Technology,12.9,0.8,6,6.1,7th percentile,Low
+HDFCBANK,HDFC Bank Ltd.,Financial Services,Financial Services,30.6,2.2,15.1,13.4,71st percentile,High
+HDFCLIFE,HDFC Life Insurance Company Ltd.,Financial Services,Financial Services,,,,,,
+HEROMOTOCO,Hero MotoCorp Ltd.,Consumer Cyclical,Automobile and Auto Components,12.2,2.7,6.2,3.3,5th percentile,Low
+HINDALCO,Hindalco Industries Ltd.,Basic Materials,Metals & Mining,31.6,12.8,10.4,8.4,74th percentile,High
+HINDUNILVR,Hindustan Unilever Ltd.,Consumer Defensive,Fast Moving Consumer Goods,23.4,8.9,6.2,8.2,42nd percentile,Medium
+ICICIBANK,ICICI Bank Ltd.,Financial Services,Financial Services,24,2.1,12.1,9.8,44th percentile,Medium
+ITC,ITC Ltd.,Consumer Defensive,Fast Moving Consumer Goods,28,5.9,7.8,14.3,61st percentile,Medium
+INDUSINDBK,IndusInd Bank Ltd.,Financial Services,Financial Services,,,,,,
+INFY,Infosys Ltd.,Technology,Information Technology,13.1,2,6,5.1,7th percentile,Low
+JSWSTEEL,JSW Steel Ltd.,Basic Materials,Metals & Mining,36.7,13.4,10.3,13,87th percentile,High
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,Financial Services,19.1,2,9.1,8,25th percentile,Low
+LTIM,LTIMindtree Ltd.,Technology,Information Technology,,,,,,
+LT,Larsen & Toubro Ltd.,Industrials,Construction,34.1,4.4,15.8,13.9,81st percentile,High
+M&M,Mahindra & Mahindra Ltd.,Consumer Cyclical,Automobile and Auto Components,27.8,8.4,5.8,13.6,60th percentile,Medium
+MARUTI,Maruti Suzuki India Ltd.,Consumer Cyclical,Automobile and Auto Components,25.8,8.5,8.2,9.1,52nd percentile,Medium
+NTPC,NTPC Ltd.,Utilities,Power,39.4,16.9,8.3,14.2,91st percentile,High
+NESTLEIND,Nestle India Ltd.,Consumer Defensive,Fast Moving Consumer Goods,28.3,13,5.4,9.9,62nd percentile,Medium
+ONGC,Oil & Natural Gas Corporation Ltd.,Energy,Oil Gas & Consumable Fuels,52.2,22.5,12.3,17.3,99th percentile,Severe
+POWERGRID,Power Grid Corporation of India Ltd.,Utilities,Power,,,,,,
+RELIANCE,Reliance Industries Ltd.,Energy,Oil Gas & Consumable Fuels,41,24.2,6.2,10.6,93rd percentile,Severe
+SBILIFE,SBI Life Insurance Company Ltd.,Financial Services,Financial Services,,,,,,
+SHRIRAMFIN,Shriram Finance Ltd.,Financial Services,Financial Services,,,,,,
+SBIN,State Bank of India,Financial Services,Financial Services,27,2.3,12.6,12.2,57th percentile,Medium
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,Healthcare,31.6,4.8,12.1,14.7,74th percentile,High
+TCS,Tata Consultancy Services Ltd.,Technology,Information Technology,11.4,0.7,6,4.8,4th percentile,Low
+TATACONSUM,Tata Consumer Products Ltd.,Consumer Defensive,Fast Moving Consumer Goods,,,,,,
+TATAMOTORS,Tata Motors Ltd.,Consumer Cyclical,Automobile and Auto Components,27.5,7,6.6,13.9,59th percentile,Medium
+TATASTEEL,Tata Steel Ltd.,Basic Materials,Metals & Mining,30.7,11.4,6.5,12.8,72nd percentile,High
+TECHM,Tech Mahindra Ltd.,Technology,Information Technology,11.6,0.5,5.2,5.9,4th percentile,Low
+TITAN,Titan Company Ltd.,Consumer Cyclical,Consumer Durables,16,1.4,6.2,8.4,14th percentile,Low
+ULTRACEMCO,UltraTech Cement Ltd.,Basic Materials,Construction Materials,32.9,16.6,10,6.3,78th percentile,High
+WIPRO,Wipro Ltd.,Technology,Information Technology,13.2,1.2,5.9,6,7th percentile,Low

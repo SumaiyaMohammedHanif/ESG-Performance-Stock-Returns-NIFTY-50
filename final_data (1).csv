@@ -1,0 +1,51 @@
+﻿Symbol,company,Sector,Industry,esg_risk_score_2024,predicted_future_esg_score,esg_risk_exposure,esg_risk_management,esg_risk_level,Controversy_Level
+ADANIENT,Adani Enterprises Ltd.,Energy,Metals & Mining,32.9,33.23703095,Medium,Average,Medium,High Controversy Level
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Industrials,Services,12.6,14.823,Low,Strong,Low,High Controversy Level
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,Healthcare,25,25.231625,Medium,Strong,Medium,Moderate Controversy Level
+ASIANPAINT,Asian Paints Ltd.,Basic Materials,Consumer Durables,25.4,26.52641667,Medium,Strong,Medium,Low Controversy Level
+AXISBANK,Axis Bank Ltd.,Financial Services,Financial Services,24.2,28.3514119,Medium,Strong,Medium,Significant Controversy Level
+BAJAJ-AUTO,Bajaj Auto Ltd.,Consumer Cyclical,Automobile and Auto Components,17,17.4,Low,Average,Low,Low Controversy Level
+BAJFINANCE,Bajaj Finance Ltd.,Financial Services,Financial Services,18.5,19.274,Medium,Strong,Low,Low Controversy Level
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,Financial Services,26.5,25.95716667,Medium,Average,Medium,Low Controversy Level
+BPCL,Bharat Petroleum Corporation Ltd.,Energy,Oil Gas & Consumable Fuels,37.8,34.99188095,High,Average,High,Moderate Controversy Level
+BHARTIARTL,Bharti Airtel Ltd.,Communication Services,Telecommunication,19.5,19.599,Medium,Strong,Low,Significant Controversy Level
+BRITANNIA,Britannia Industries Ltd.,Consumer Defensive,Fast Moving Consumer Goods,26,26.04994524,Medium,Strong,Medium,Low Controversy Level
+CIPLA,Cipla Ltd.,Healthcare,Healthcare,28.4,29.63553651,Medium,Average,Medium,Moderate Controversy Level
+COALINDIA,Coal India Ltd.,Energy,Oil Gas & Consumable Fuels,45.5,38.44051429,High,Average,Severe,Moderate Controversy Level
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,Healthcare,32.8,32.26554167,Medium,Average,High,Low Controversy Level
+DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,Healthcare,26.6,28.58275317,Medium,Average,Medium,Significant Controversy Level
+EICHERMOT,Eicher Motors Ltd.,Consumer Cyclical,Automobile and Auto Components,13.3,14.90266667,Low,Average,Low,Moderate Controversy Level
+GRASIM,Grasim Industries Ltd.,Basic Materials,Construction Materials,43.1,36.47793095,Medium,Strong,Severe,Moderate Controversy Level
+HCLTECH,HCL Technologies Ltd.,Technology,Information Technology,12.9,13.56383333,Low,Strong,Low,Moderate Controversy Level
+HDFCBANK,HDFC Bank Ltd.,Financial Services,Financial Services,30.6,30.979125,Medium,Average,High,Moderate Controversy Level
+HDFCLIFE,HDFC Life Insurance Company Ltd.,Financial Services,Financial Services,20.8,26.21291667,Medium,Strong,Medium,Low Controversy Level
+HEROMOTOCO,Hero MotoCorp Ltd.,Consumer Cyclical,Automobile and Auto Components,12.2,13.621,Low,Strong,Low,Moderate Controversy Level
+HINDALCO,Hindalco Industries Ltd.,Basic Materials,Metals & Mining,31.6,31.2641,High,Strong,High,Significant Controversy Level
+HINDUNILVR,Hindustan Unilever Ltd.,Consumer Defensive,Fast Moving Consumer Goods,23.4,25.56881984,Medium,Strong,Medium,Moderate Controversy Level
+ICICIBANK,ICICI Bank Ltd.,Financial Services,Financial Services,24,25.89101984,Medium,Strong,Medium,Significant Controversy Level
+ITC,ITC Ltd.,Consumer Defensive,Fast Moving Consumer Goods,28,29.47321151,Medium,Average,Medium,Moderate Controversy Level
+INDUSINDBK,IndusInd Bank Ltd.,Financial Services,Financial Services,30.1,31.04503333,Medium,Average,High,Moderate Controversy Level
+INFY,Infosys Ltd.,Technology,Information Technology,13.1,13.498,Low,Strong,Low,Moderate Controversy Level
+JSWSTEEL,JSW Steel Ltd.,Basic Materials,Metals & Mining,36.7,33.00233333,High,Strong,High,Significant Controversy Level
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,Financial Services,19.1,18.539,Medium,Strong,Low,Moderate Controversy Level
+LTIM,LTIMindtree Ltd.,Technology,Information Technology,21.5,27.26077222,Medium,Average,Medium,Moderate Controversy Level
+LT,Larsen & Toubro Ltd.,Industrials,Construction,34.1,30.02483333,High,Strong,High,Moderate Controversy Level
+M&M,Mahindra & Mahindra Ltd.,Consumer Cyclical,Automobile and Auto Components,27.8,30.1063869,Medium,Strong,Medium,Moderate Controversy Level
+MARUTI,Maruti Suzuki India Ltd.,Consumer Cyclical,Automobile and Auto Components,25.8,26.06583333,Medium,Average,Medium,Moderate Controversy Level
+NTPC,NTPC Ltd.,Utilities,Power,39.4,36.45783333,High,Strong,High,High Controversy Level
+NESTLEIND,Nestle India Ltd.,Consumer Defensive,Fast Moving Consumer Goods,28.3,27.64517222,Medium,Strong,Medium,Moderate Controversy Level
+ONGC,Oil & Natural Gas Corporation Ltd.,Energy,Oil Gas & Consumable Fuels,52.2,46.78,High,Average,Severe,Severe Controversy Level
+POWERGRID,Power Grid Corporation of India Ltd.,Utilities,Power,22.1,26.01066667,Medium,Average,Medium,Low Controversy Level
+RELIANCE,Reliance Industries Ltd.,Energy,Oil Gas & Consumable Fuels,41,35.15170556,High,Average,Severe,Moderate Controversy Level
+SBILIFE,SBI Life Insurance Company Ltd.,Financial Services,Financial Services,24.8,24.885,Medium,Average,Medium,Low Controversy Level
+SHRIRAMFIN,Shriram Finance Ltd.,Financial Services,Financial Services,20.1,26.07583333,Medium,Average,Medium,Moderate Controversy Level
+SBIN,State Bank of India,Financial Services,Financial Services,27,26.1763,Medium,Average,Medium,Moderate Controversy Level
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,Healthcare,31.6,30.28466667,Medium,Average,High,Significant Controversy Level
+TCS,Tata Consultancy Services Ltd.,Technology,Information Technology,11.4,12.607,Low,Strong,Low,Low Controversy Level
+TATACONSUM,Tata Consumer Products Ltd.,Consumer Defensive,Fast Moving Consumer Goods,26.5,27.05097579,Medium,Strong,Medium,Significant Controversy Level
+TATAMOTORS,Tata Motors Ltd.,Consumer Cyclical,Automobile and Auto Components,27.5,29.74712024,Medium,Strong,Medium,Moderate Controversy Level
+TATASTEEL,Tata Steel Ltd.,Basic Materials,Metals & Mining,30.7,27.06296667,High,Strong,High,Significant Controversy Level
+TECHM,Tech Mahindra Ltd.,Technology,Information Technology,11.6,12.825,Low,Strong,Low,Low Controversy Level
+TITAN,Titan Company Ltd.,Consumer Cyclical,Consumer Durables,16,17.00341667,Low,Average,Low,Moderate Controversy Level
+ULTRACEMCO,UltraTech Cement Ltd.,Basic Materials,Construction Materials,32.9,30.15695833,Medium,Average,High,Moderate Controversy Level
+WIPRO,Wipro Ltd.,Technology,Information Technology,13.2,16.92086667,Medium,Strong,Low,Moderate Controversy Level
