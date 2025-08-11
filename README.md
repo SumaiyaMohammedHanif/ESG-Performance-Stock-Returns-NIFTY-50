@@ -98,29 +98,29 @@ Created relationships between tables.
 4. Dashboard Visuals
 KPIs:
 
-1.	ESSG & Return Executive Summary
--KPIs: Top Performing Company ,Average ESG Risk Score,Average Stock Return %,Lowest Risk (Safest) Company,Highest Risk (Riskiest) Company
--Slicers for Date, Industry.
--Scatter Chart: Risk vs Return
--Bar chart: Top 5 Companies
--Bar Chart: ESG Risk & Stock Return
--Conditional formatting in table: Green = High Returns, Low Risk Red = Low Returns, High Risk
--Metrics: Avg Total ESG Risk, Avg Daily Return %
-2.	Company Profile (Drill-through Page)
--KPIs: Selected Company, CompanyAvg DailyReturn, CompanyAvgESGRisk
--Area Chart: ESG Risk Score trend over time
--Bar Chart: Peer Comparison Avg Daily Return % by Company
--Line Chart: Company Daily Return/Performance Trend Over Time
-3.	ESG Risk Insights
--KPIs: Avg Total ESG Risk, Avg Predicated ESG Score, Avg Env Risk ,Avg Gov Risk, Avg Soc Risk
--Bar Chart: Controversy Level Distribution  by Company
--Bar Chart: Avg ESG Risk Score by Industry
--Donut Chart: ESG Risk Level distribution
--Scatter Plot: ESG Risk vs. Predicted Score
-4.	Stock Price Insights
--Line Chart: ESG and Close price by Company
--Line Chart: Stock Price Trend 
--Area Chart: Volume Trend
+- ESSG & Return Executive Summary
+  KPIs: Top Performing Company ,Average ESG Risk Score,Average Stock Return %,Lowest Risk (Safest) Company,Highest Risk (Riskiest) Company
+  Slicers for Date, Industry.
+  Scatter Chart: Risk vs Return
+  Bar chart: Top 5 Companies
+  Bar Chart: ESG Risk & Stock Return
+  Conditional formatting in table: Green = High Returns, Low Risk Red = Low Returns, High Risk
+  Metrics: Avg Total ESG Risk, Avg Daily Return %
+-	Company Profile (Drill-through Page)
+  KPIs: Selected Company, CompanyAvg DailyReturn, CompanyAvgESGRisk
+  Area Chart: ESG Risk Score trend over time
+  Bar Chart: Peer Comparison Avg Daily Return % by Company
+  Line Chart: Company Daily Return/Performance Trend Over Time
+-	ESG Risk Insights
+  KPIs: Avg Total ESG Risk, Avg Predicated ESG Score, Avg Env Risk ,Avg Gov Risk, Avg Soc Risk
+  Bar Chart: Controversy Level Distribution  by Company
+  Bar Chart: Avg ESG Risk Score by Industry
+  Donut Chart: ESG Risk Level distribution
+  Scatter Plot: ESG Risk vs. Predicted Score
+-	Stock Price Insights
+  Line Chart: ESG and Close price by Company
+  Line Chart: Stock Price Trend 
+  Area Chart: Volume Trend
 
 ---
 
