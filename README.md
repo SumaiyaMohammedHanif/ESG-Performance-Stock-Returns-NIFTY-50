@@ -99,32 +99,28 @@ Created relationships between tables.
 KPIs:
 
 1.	ESSG & Return Executive Summary
-o	 KPIs: Top Performing Company ,Average ESG Risk Score,Average Stock Return %,Lowest Risk (Safest) Company,Highest Risk (Riskiest) Company
-o	Slicers for Date, Industry.
-o	Scatter Chart: Risk vs Return
-o	Bar chart: Top 5 Companies
-o	Bar Chart: ESG Risk & Stock Return
-o	Conditional formatting in table:
-	Green = High Returns, Low Risk
-	Red = Low Returns, High Risk
-o	Metrics: 
-	Avg Total ESG Risk
-	Avg Daily Return %
+-KPIs: Top Performing Company ,Average ESG Risk Score,Average Stock Return %,Lowest Risk (Safest) Company,Highest Risk (Riskiest) Company
+-Slicers for Date, Industry.
+-Scatter Chart: Risk vs Return
+-Bar chart: Top 5 Companies
+-Bar Chart: ESG Risk & Stock Return
+-Conditional formatting in table: Green = High Returns, Low Risk Red = Low Returns, High Risk
+-Metrics: Avg Total ESG Risk, Avg Daily Return %
 2.	Company Profile (Drill-through Page)
-o	KPIs: Selected Company, CompanyAvg DailyReturn, CompanyAvgESGRisk
-o	Area Chart: ESG Risk Score trend over time
-o	Bar Chart: Peer Comparison Avg Daily Return % by Company
-o	Line Chart: Company Daily Return/Performance Trend Over Time
+-KPIs: Selected Company, CompanyAvg DailyReturn, CompanyAvgESGRisk
+-Area Chart: ESG Risk Score trend over time
+-Bar Chart: Peer Comparison Avg Daily Return % by Company
+-Line Chart: Company Daily Return/Performance Trend Over Time
 3.	ESG Risk Insights
-o	KPIs: Avg Total ESG Risk, Avg Predicated ESG Score, Avg Env Risk ,Avg Gov Risk, Avg Soc Risk
-o	Bar Chart: Controversy Level Distribution  by Company
-o	Bar Chart: Avg ESG Risk Score by Industry
-o	Donut Chart: ESG Risk Level distribution
-o	Scatter Plot: ESG Risk vs. Predicted Score
+-KPIs: Avg Total ESG Risk, Avg Predicated ESG Score, Avg Env Risk ,Avg Gov Risk, Avg Soc Risk
+-Bar Chart: Controversy Level Distribution  by Company
+-Bar Chart: Avg ESG Risk Score by Industry
+-Donut Chart: ESG Risk Level distribution
+-Scatter Plot: ESG Risk vs. Predicted Score
 4.	Stock Price Insights
-o	Line Chart: ESG and Close price by Company
-o	Line Chart: Stock Price Trend 
-o	Area Chart: Volume Trend
+-Line Chart: ESG and Close price by Company
+-Line Chart: Stock Price Trend 
+-Area Chart: Volume Trend
 
 ---
 
